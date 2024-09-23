@@ -1,0 +1,10 @@
+#Element6 Specific Files
+secrets.py
+error.log
+element6.log
+
+#Optimized Files
+__pycache__/
+*.py[cod]
+*$py.class
+
